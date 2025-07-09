@@ -1,0 +1,14 @@
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\bin\Debug\net8.0\OOPCourse.exe
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\bin\Debug\net8.0\OOPCourse.deps.json
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\bin\Debug\net8.0\OOPCourse.runtimeconfig.json
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\bin\Debug\net8.0\OOPCourse.dll
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\bin\Debug\net8.0\OOPCourse.pdb
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\obj\Debug\net8.0\OOPCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\obj\Debug\net8.0\OOPCourse.AssemblyInfoInputs.cache
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\obj\Debug\net8.0\OOPCourse.AssemblyInfo.cs
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\obj\Debug\net8.0\OOPCourse.csproj.CoreCompileInputs.cache
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\obj\Debug\net8.0\OOPCourse.dll
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\obj\Debug\net8.0\refint\OOPCourse.dll
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\obj\Debug\net8.0\OOPCourse.pdb
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\obj\Debug\net8.0\OOPCourse.genruntimeconfig.cache
+C:\Users\soapz\Documents\Visual Studio 2022\OOPCourse\OOPCourse\obj\Debug\net8.0\ref\OOPCourse.dll
