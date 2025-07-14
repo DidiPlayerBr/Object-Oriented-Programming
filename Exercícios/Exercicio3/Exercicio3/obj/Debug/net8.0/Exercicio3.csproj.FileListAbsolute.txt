@@ -1,0 +1,14 @@
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\bin\Debug\net8.0\Exercicio3.exe
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\bin\Debug\net8.0\Exercicio3.deps.json
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\bin\Debug\net8.0\Exercicio3.runtimeconfig.json
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\bin\Debug\net8.0\Exercicio3.dll
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\bin\Debug\net8.0\Exercicio3.pdb
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\obj\Debug\net8.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\obj\Debug\net8.0\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\obj\Debug\net8.0\Exercicio3.AssemblyInfo.cs
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\obj\Debug\net8.0\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\obj\Debug\net8.0\Exercicio3.dll
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\obj\Debug\net8.0\refint\Exercicio3.dll
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\obj\Debug\net8.0\Exercicio3.pdb
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\obj\Debug\net8.0\Exercicio3.genruntimeconfig.cache
+C:\Users\soapz\Documents\Visual Studio 2022\Exercicio3\Exercicio3\obj\Debug\net8.0\ref\Exercicio3.dll
