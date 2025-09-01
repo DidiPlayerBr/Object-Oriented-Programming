@@ -1,0 +1,14 @@
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net8.0\ExercicioDeFixacao1.exe
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net8.0\ExercicioDeFixacao1.deps.json
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net8.0\ExercicioDeFixacao1.runtimeconfig.json
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net8.0\ExercicioDeFixacao1.dll
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net8.0\ExercicioDeFixacao1.pdb
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net8.0\ExercicioDeFixacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net8.0\ExercicioDeFixacao1.AssemblyInfoInputs.cache
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net8.0\ExercicioDeFixacao1.AssemblyInfo.cs
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net8.0\ExercicioDeFixacao1.csproj.CoreCompileInputs.cache
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net8.0\ExercicioDeFixacao1.dll
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net8.0\refint\ExercicioDeFixacao1.dll
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net8.0\ExercicioDeFixacao1.pdb
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net8.0\ExercicioDeFixacao1.genruntimeconfig.cache
+C:\Users\soapz\Documents\Visual Studio 2022\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net8.0\ref\ExercicioDeFixacao1.dll
