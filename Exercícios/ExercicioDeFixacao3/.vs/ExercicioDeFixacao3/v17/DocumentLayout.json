@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soapz\\source\\repos\\ExercicioDeFixacao3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC82FBD-FC7F-4FF4-AFB3-02CC1CE7988A}|ExercicioDeFixacao3\\ExercicioDeFixacao3.csproj|c:\\users\\soapz\\source\\repos\\exerciciodefixacao3\\exerciciodefixacao3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC82FBD-FC7F-4FF4-AFB3-02CC1CE7988A}|ExercicioDeFixacao3\\ExercicioDeFixacao3.csproj|solutionrelative:exerciciodefixacao3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC82FBD-FC7F-4FF4-AFB3-02CC1CE7988A}|ExercicioDeFixacao3\\ExercicioDeFixacao3.csproj|c:\\users\\soapz\\source\\repos\\exerciciodefixacao3\\exerciciodefixacao3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC82FBD-FC7F-4FF4-AFB3-02CC1CE7988A}|ExercicioDeFixacao3\\ExercicioDeFixacao3.csproj|solutionrelative:exerciciodefixacao3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\soapz\\source\\repos\\ExercicioDeFixacao3\\ExercicioDeFixacao3\\Aluno.cs",
+              "RelativeDocumentMoniker": "ExercicioDeFixacao3\\Aluno.cs",
+              "ToolTip": "C:\\Users\\soapz\\source\\repos\\ExercicioDeFixacao3\\ExercicioDeFixacao3\\Aluno.cs",
+              "RelativeToolTip": "ExercicioDeFixacao3\\Aluno.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:50:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soapz\\source\\repos\\ExercicioDeFixacao3\\ExercicioDeFixacao3\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioDeFixacao3\\Program.cs",
+              "ToolTip": "C:\\Users\\soapz\\source\\repos\\ExercicioDeFixacao3\\ExercicioDeFixacao3\\Program.cs",
+              "RelativeToolTip": "ExercicioDeFixacao3\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:47:06.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net8.0\ExercicioDeFixacao2.exe
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net8.0\ExercicioDeFixacao2.deps.json
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net8.0\ExercicioDeFixacao2.runtimeconfig.json
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net8.0\ExercicioDeFixacao2.dll
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net8.0\ExercicioDeFixacao2.pdb
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net8.0\ExercicioDeFixacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net8.0\ExercicioDeFixacao2.AssemblyInfoInputs.cache
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net8.0\ExercicioDeFixacao2.AssemblyInfo.cs
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net8.0\ExercicioDeFixacao2.csproj.CoreCompileInputs.cache
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net8.0\ExercicioDeFixacao2.dll
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net8.0\refint\ExercicioDeFixacao2.dll
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net8.0\ExercicioDeFixacao2.pdb
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net8.0\ExercicioDeFixacao2.genruntimeconfig.cache
+C:\Users\soapz\source\repos\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net8.0\ref\ExercicioDeFixacao2.dll
